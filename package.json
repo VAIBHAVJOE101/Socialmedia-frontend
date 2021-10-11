@@ -40,5 +40,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "http://localhost:8880/api/"
+  "proxy": "http://localhost:8880/api"
 }

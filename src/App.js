@@ -18,7 +18,7 @@ function App() {
         <Route path="/register" >
           <Register />
         </Route>
-        <Route path="/profile/:username" >
+        <Route path="/profile/" >
           <Profile />
         </Route>
       </Switch>
